@@ -1,5 +1,5 @@
 # Church_of_the_Light_3D
-A full FreeCAD 3D model of the Church of The Light designed by Tadao Ando
+A full FreeCAD 3D model of the Church of The Light (1989) designed by Tadao Ando.
 
 This Model was created using the free and open source software FreeCAD. You can download it from https://www.freecadweb.org/
 
