@@ -8,3 +8,5 @@ My intention was to provide a complete and accessible 3D model of this iconic ar
 https://www.moma.org/collection/works/340?classifications=any&date_begin=Pre-1850&date_end=2020&locale=en&page=1&q=tadao+ando&with_images=1
 
 For more historical information of this church, see https://en.wikipedia.org/wiki/Church_of_the_Light
+
+![Church of the Light FreeCAD Model](https://github.com/bitacovir/Church_of_the_Light_3D/blob/master/Images/freecad_p9okBoxdcE.png)
